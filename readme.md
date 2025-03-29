@@ -1,4 +1,8 @@
-# readme 
+# A Walking tour of Springdom in 2025
+
+hi, Spring fans! The full video [in which this code was introduced is here](https://www.youtube.com/watch?v=GAgelbsTb9M&t=178s)!
+
+
 
 ## demo flow  
 - desk check: IDEs, jvms, `banner.txt`, devtools, `direnv`, sdkman, etc.
